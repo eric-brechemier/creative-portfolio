@@ -17,6 +17,7 @@ Projects and learning portfolio in my three domains of expertise:
 * Twilio Champions (2019–)
 * How I replaced Skype with Twilio (2019)
 * MEDEA (2014)
+* Zero Passwords Server (2013–2019)
 * Enlarge Your Password! (2011–2015)
 * MangaConseil (2008–2016)
 * Expway (2004–2007)
