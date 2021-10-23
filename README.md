@@ -2,9 +2,9 @@
 
 Projects and learning portfolio in my three domains of expertise:
 
-* Instructional Design
-* Graphic Design
-* Computer Science
+* [Instructional Design](#instructional-design)
+* [Graphic Design](#graphic-design)
+* [Computer Science](#computer-science)
 
 ## Instructional Design
 
