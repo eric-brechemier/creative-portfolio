@@ -17,6 +17,7 @@ Projects and learning portfolio in my three domains of expertise:
 * Twilio Champions (2019–)
 * MEDEA (2014)
 * Enlarge Your Password! (2011–2015)
+* MangaConseil (2008–2016)
 * Expway (2004–2007)
 * B4J (2004–2005)
 * CNAM-ENJMIN (2003–2004)
