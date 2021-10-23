@@ -10,6 +10,7 @@ Projects and learning portfolio in my three domains of expertise:
 
 ## Graphic Design
 
+* La forme en création (2013–)
 * 7 Days Gallery (2011)
 
 ## Computer Science
