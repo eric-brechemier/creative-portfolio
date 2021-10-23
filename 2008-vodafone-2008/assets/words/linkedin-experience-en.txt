@@ -1,0 +1,17 @@
+Title: Web 2.0 Developer
+Employment type: Freelance
+Company name: Vodafone
+Location: Düsseldorf, Germany
+Start date: February 2008
+End date: April 2008
+Description:
+End-customer: Vodafone Global, in Düsseldorf (Germany)
+
+I was hired by ITHR Consulting, in charge of the Vodafone portal development and support, to be part of the Prototype team. I was actually half of the team during three months, and had a great experience working in a duet with a true American Entrepreneur.
+
+I worked on a super secret project I can tell nothing about, except that it involved a mobile phone :) and I really enjoyed developing new concepts and sharing weird ideas. The main requirement was thinking out of the box and exploring a wide range of technologies:
+  - RSS
+  - Yahoo! Pipes
+  - script.aculo.us
+  - Facebook
+  - Google Maps

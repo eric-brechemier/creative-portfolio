@@ -1,0 +1,61 @@
+Title: Chef de projet
+Employment type: Permanent
+Company name: Expway
+Location: Paris
+Start date: March 2005
+End date: November 2007
+Description:
+Problèmes résolus ▶︎ Notre serveur de métadonnées était distribué à prix coûtant
+pour les environnements de test, afin d'encourager nos clients
+à expérimenter avec la technologie et se rendre compte de notre avance
+par rapport à nos concurrents. Mais avec la diffusion groupée,
+il n'y a pas de différence d'échelle lors du passage en production :
+des millions de terminaux peuvent recevoir un signal identique du serveur.
+Comment justifier une large différence de prix pour le même logiciel
+utilisé en test et en production ?
+
+Du côté des terminaux, notre librairie interrogeait les données efficacement
+pour fournir à l'interface graphique juste ce qu'il faut pour chaque écran.
+Mais les développeurs de l'interface graphique avaient tendance
+à charger toutes les données d'un coup dans une base de données
+de leur cru, avec une performance dégradée.
+Comment faire pour qu'il leur soit tout aussi pratique d'utiliser
+notre librairie que leurs propres structures de données ?
+
+Solutions ▶︎▶︎ Partager les composants entre trois serveurs :
+entrées, base de données, diffusion groupée en sortie.
+Doubler le nombre de serveurs pour la redondance :
+3 primaires, 3 secondaires.
+Ces 6 serveurs nous coûtaient plus chers qu'un seul,
+mais la complexité de cette architecture et l'espace occupé
+dans les armoires de serveurs pour l'environnement de production
+justifiaient les coûts élevés de notre licence d'exploitation.
+
+Sur les terminaux : fournir les données à l'interface graphique
+sous forme d'objets natifs, déjà assemblés et prêts à consommer.
+Des tableaux et des objets au format JSON, échangés localement
+entre notre librairie et l'interface graphique, sous l'inspiration de ce
+format d'échange entre serveurs et navigateurs, à ses tous débuts.
+---
+Title: Ingénieur de recherche & développement
+Employment type: Permanent
+Company name: Expway
+Location: Paris
+Start date: July 2004
+End date: November 2007
+Description:
+Problème résolu ▶︎ Les descriptions des programmes TV (guide de service électronique) sont consommées dans différents formats par les applications qui tournent sur les télévisions et les terminaux mobiles, en fonction de la technologie de diffusion. Les fournisseurs de contenus exportent les données dans un format qui reproduit le schéma de leurs propres bases de données. Elles sont divisées en différents fichiers avec différents types d'enregistrements sans tenir compte des besoins des terminaux qui les affichent.
+
+Solution ▶︎▶︎ J'ai conçu une chaîne de transformations qui passent par un point pivot  avec un unique format d'échange, basé sur le standard TV-Anytime. J'ai implémenté chaque étape de ces transformations avec une combinaison de scripts XSLT et de tâches Ant pour l'orchestration du processus :
+
+1. conversion du format d'entrée (CSV ou binaire) vers une liste d'éléments XML
+   avec la même structure que les enregistrements dans le format d'entrée
+2. recombinaison des fichiers séparés et réorganisation des enregistrements
+3. conversion de la structure d'entrée vers le format d'échange unique
+  dont le schéma XML est standardisé par le forum international TV-Anytime
+4. conversion des données XML au format TV-Anytime vers un format XML
+   avec la même structure que le format attendu par les terminaux en sortie
+5. conversion du format XML de sortie vers le format final, par exemple
+   du XML compressé ou un format binaire
+
+Un principe clef est de ne convertir qu'une seule chose à la fois à chaque étape de ce processus : soit le format, soit la structure des fichiers. L'utilisation d'un format pivot nous a permis de réutiliser les étapes de transformation d'entrée et de sortie sur différents projets, en fonction des fournisseurs de contenus et de la technologie des terminaux.

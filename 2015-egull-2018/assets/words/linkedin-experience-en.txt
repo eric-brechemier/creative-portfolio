@@ -1,0 +1,22 @@
+Title: Board Member
+Employment type: Self-employed
+Company name: eGull Pay
+Location: Paris, France
+Start date: March 2018
+End date: December 2020
+---
+Title: Data Engineer
+Employment type: Permanent
+Company name: eGull Pay
+Location: Paris, Île-de-France, France
+Start date: June 2015
+End date: December 2018
+Description:
+Helping casual golfers to play more often
+
+Problems Solved ▶︎ Hired as first employee of eGull in June 2015, I have gone through the different phases of its development, with several pivots:
+1. analysis of movements recorded by smartwatch sensors to detect golf shots
+2. tracking of GPS positions of golfers to reduce congestion on golf courses
+3. flexible payment for golf rounds, based on the number of holes played
+
+Solutions ▶︎▶︎ I attacked these three problems from the perspective of data recording, processing, and extraction of patterns and knowledge. I put the database at the core of our architecture, using a thin middle layer that bridges the communication between HTTP requests and SQL queries, and handles token-based authentication.

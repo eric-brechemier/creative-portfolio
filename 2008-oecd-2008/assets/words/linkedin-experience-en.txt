@@ -1,0 +1,11 @@
+Title: XML Expert
+Employment type: Freelance
+Company name: OECD
+Location: Paris, France
+Start date: May 2008
+End date: June 2008
+Description:
+End-customer: Organisation for Economic Co-operation and Development, in Paris (France)
+
+With Infocubed, performed a comparative Study of XML databases to provide guidance to OECD in the context of a call for tender.
+Studied eXist, MarkLogic, XMLmind Qizx/db, PostgreSQL, Microsoft SQL Server, Tamino

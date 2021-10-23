@@ -1,0 +1,7 @@
+Organization: Fontstand
+Role: Technical Consultant
+Cause: Arts and Culture
+Start date: March 2021
+End date: August 2021
+Description:
+I helped the Fonstand font subscription service to make their fonts available in the latest versions of Gimp, Inkscape and Scribus on macOS. I researched font loading mechanisms using fontconfig and I suggested and tested various configurations. After a couple of months of back and forth, a working configuration has been successfully integrated in Fontstand, which now supports all majors opensource graphic design software.

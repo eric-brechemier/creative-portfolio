@@ -1,0 +1,32 @@
+School: 📚 Graphic Design Books (Self-Education)
+Field of study: Graphic Design
+Start date: 2004
+End date: 2021
+Description:
+▷ The Elements of Design, by Loan Oei & Cecile De Kegel
+▷ Graphic Design, by Curtis Tappenden & Luke Jefford & Stella Farris
+▷ Graphic Design: The New Basics, by Ellen Lupton & Phillips Jennifer Cole
+
+▶︎ Meggs' History of Graphic Design, by Philip B. Meggs & Alson W. Purvis
+▶︎ Bauhaus, by Magdalena Droste
+▶︎ Swiss Graphic Design, by Richard Hollis
+
+▷ The Shape of Design, by Frank Chimero
+▷ Notes brutes, by Victor Vasarely
+
+▶︎ Signs and Symbols, by Adrian Frutiger
+▶︎ Thinking with Type, by Ellen Lupton
+▶︎ Just my Type, by Simon Garfield
+
+▷ Making and Breaking the Grid, by Timothy Samara
+▷ Grids, by Gavin Ambrose & Paul Harris
+
+▶︎ Transcending CSS, by Andy Clarke
+▶︎ Visualizing Data, by Ben Fry
+▶︎ Envisioning Information, by Edward R. Tufte
+▶︎ Visual Explanations, by Edward R. Tufte
+
+▷ Colour, by Edith Anderson Feisner
+▷ The Complete Guide to Drawing and Illustration, by Peter Gray
+▷ Seeing Things, by Joel Meyerowitz
+▷ The Photographer's Eye, by Michael Freeman

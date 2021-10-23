@@ -1,0 +1,21 @@
+School: 📚 Computer Science Books (Self-Education)
+Field of Study: Computer Science
+Start Date: 1998
+End Date: 2018
+Description:
+▷ Le Langage Caml, by Pierre Weis & Xavier Leroy
+▷ Compilers, by Alfred V. Aho et al
+▷ JavaScript: The Good Parts, by Douglas Crockford
+
+▶︎ XML in a Nutshell, by Elliotte Rusty Harold & W. Scott Means
+▶︎ Schémas XML, by Jean-Jacques Thomasson
+▶︎ XSLT fondamental, by Philippe Drix
+
+▷ UML Distilled, by Martin Fowler
+▷ Design Patterns, by Erich Gamma et al
+▷ Patterns of Enterprise Application Architecture, by Martin Fowler
+
+▶︎ L'eXtreme Programming, by Jean-Louis Bénard et al
+▶︎ Object Design, by Rebecca Wirfs-Brock & Alan McKean
+▶︎ Refactoring, by Martin Fowler et al
+▶︎ The Mythical Man-Month, by Frederick P. Brooks, Jr.

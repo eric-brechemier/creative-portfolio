@@ -1,0 +1,16 @@
+Title: Ingénieur informatique
+Employment type: Internship
+Company name: Pastagames
+Location: Paris
+Start date: July 2004
+End date: November 2004
+Description:
+Problème résolu ▶︎ Chaque jeu vidéo doit charger des fichiers de ressources qui lui sont spécifiques. Un large choix d'éditeurs XML répond à ce besoin. Toutefois, il est préférable de charger des données binaires sur les terminaux aux capacités limitées, tels que les téléphones portables.
+
+Solution ▶︎▶︎ Sur une idée originale de Fabien Delpiano, directeur du studio, j'ai développé un processus pour :
+
+• définir un schéma personnalisé pour les fichiers de données d'un jeu, avec XML Schema
+• compresser les fichiers XML au format binaire, en supprimant toute la hiérarchie de l'information
+• générer du code source pour lire ces fichiers binaires, décoder les données et restaurer leur hiérarchie.
+
+Ce processus a été utilisé ensuite sur plusieurs générations de jeux vidéo du studio.

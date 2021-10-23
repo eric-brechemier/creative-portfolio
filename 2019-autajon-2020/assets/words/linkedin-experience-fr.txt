@@ -1,0 +1,15 @@
+Title: Ingénieur en informatique
+Employment type: Freelance
+Company name: Autajon
+Location: Montélimar
+Start date: November 2019
+End date: March 2020
+Description:
+Accompagner la croissance d'un logiciel de gestion d'entrepôt vers de nouvelles directions
+
+Problème résolu ▶︎ Deux branches de code qui avaient divergé il y a plusieurs années devaient être réconciliées. Sur une branche, la migration vers une nouvelle version de Delphi et un nouveau système de base de données avait été laissée en suspens. Sur l'autre branche, le code de production avait évolué de son côté, avec l'ajout et la suppression de différentes fonctionnalités.
+
+Solutions ▶︎▶︎
+1. J'ai introduit un nouveau processus de gestion du code source basé sur git et GitHub,
+2. j'ai utilisé les outils git diff et git add en mode interactif pour recréer des étapes d'évolution du projet,
+3. j'ai terminé la migration interrompue à l'aide de transformations en ligne de commande avec grep et sed.

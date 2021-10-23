@@ -1,0 +1,11 @@
+Title: Expert XML
+Employment type: Freelance
+Company name: OCDE
+Location: Paris, France
+Start date: May 2008
+End date: June 2008
+Description:
+Client final : Organisation de Coopération et de Développement Économiques, Paris (France)
+
+Avec Infocube, j'ai réalisé une étude comparative d'une sélection de bases de données XML afin de fournir des recommandations à l'OCDE dans le cadre d'un appel d'offres.
+Bases de données étudiées : eXist, MarkLogic, XMLmind Qizx/db, PostgreSQL, Microsoft SQL Server, Tamino

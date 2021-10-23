@@ -1,0 +1,16 @@
+Title: Software Engineer
+Employment type: Internship
+Company name: Pastagames
+Location: Paris, Île-de-France, France
+Start Date: July 2004
+End Date: November 2004
+Description:
+Problem Solved ▶︎ Each video game needs to load data files, which are specific to that particular game. XML editors are widely available, but binary data are preferred for devices with limited resources, such as mobile phones.
+
+Solution ▶︎▶︎ Based on an original idea by Fabien Delpiano, head of the game studio, I developed a process to:
+
+• define a custom schema for the game data files, using XML Schema
+• compress XML files into small binary files, removing all the hierarchy of information
+• generate source code to read the binary files, decoding data and restoring its hierarchy
+
+This process has subsequently been used in several generations of video games at the studio.

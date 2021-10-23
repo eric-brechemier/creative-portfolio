@@ -1,0 +1,5 @@
+School: ENSIIE
+Degree: Master of Engineering - MEng
+Field of study: Computer Science
+Start date: October 2000
+End date: June 2003

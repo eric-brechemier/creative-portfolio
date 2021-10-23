@@ -1,0 +1,12 @@
+Title: Data Visualization Developer
+Employment type: Contract
+Company name: École nationale supérieure des Arts Décoratifs (EnsAD)
+Location: Paris, Île-de-France, France
+Start date: March 2014
+End date: December 2014
+Description:
+Exploring authorship of the IPCC reports on climate change
+
+Research Problem ▶︎ The MEDEA project was a partnership between the research labs of two schools: the art school, EnsAD, was in charge of the design while Sciences Po was leading research on the authors who contributed to the IPCC reports about climate change. I joined the project in its final year, in 2014.
+
+Solutions ▶︎▶︎ In order to improve the traceability of the data sets, I designed a sequence of data transformations and human reviews which preserved the origin of data and the choices made at each step. To compare the effectiveness of different data visualizations to answer specific questions, I exported data to CSV using SQL queries and I compared multiple data visualizations in spreadsheet software. I also developed a Web interface in SVG and JavaScript for the interactive exploration and filtering of the data sets.

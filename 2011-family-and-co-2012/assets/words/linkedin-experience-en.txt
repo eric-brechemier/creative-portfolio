@@ -1,0 +1,12 @@
+Title: Front-End Web Developer
+Employment type: Freelance
+Company name: Family & Co
+Location: Paris, Île-de-France, France
+Start date: August 2011
+End date: November 2012
+Description:
+Sharing plans, pictures and messages privately within your extended family
+
+Problems Solved ▶︎ This web application was designed as a private Facebook, restricted to the members of an extended family. I joined the team at an early stage of the project. The front-end development had been outsourced to a team in a different time zone, it was running late and the expected features were not there. The back-end development had barely started as the lead developer had not left his full-time job yet. A contract had been signed to deliver the platform under a white label by the end of the year, and with only a few months left, the pressure was rising steadily.
+
+Solutions ▶︎▶︎ I bridged the gap between the outsourced development team and the local management team, making sure that short deadlines, with clear, realistic goals were set. I collaborated with the graphic designer to make the design more systematic and predictable, keeping relevant differences when they had a purpose, and otherwise applying common metrics to remove fortuitous discrepancies. I created reusable CSS modules following OOCSS principles, and I showcased these modules in online HTML guide lines shared with the whole team. I also introduced a modular architecture for the JavaScript application, and a process to handle the internationalization, applying localized texts and formats in common templates. I automated the build process to produce optimized assets ready for production. By the end of the year, the first version of the platform was online, supporting two different skins and three different languages.

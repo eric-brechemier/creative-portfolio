@@ -1,0 +1,10 @@
+Title: UML Analyst
+Employment type: Freelance
+Company name: Wolters Kluwer
+Location: Rueil-Malmaison, Île-de-France, France
+Start date: July 2008
+End date: October 2008
+Description:
+End-customer: Wolters Kluwer France, in Rueil-Malmaison
+
+Somewhere between a Private Investigator and an Architect, I analyzed the PHP code of Web application modules currently deployed on WK-Pharma portal in order to produce Use Case documents and UML diagrams.

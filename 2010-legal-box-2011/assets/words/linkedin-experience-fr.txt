@@ -1,0 +1,14 @@
+Title: Développeur d'Applications Web
+Employment Type: Permanent
+Company name: Legal-Box
+Location: Paris, France
+Start date: March 2010
+End date: July 2011
+Description:
+Le 3 mars 2010, j'étais le premier employé à signer chez Legal-Box. Un an après, nous avons mis en ligne la première version commerciale de l'application, un webmail à valeur légale pour l'envoi de courriers recommandés par Internet.
+
+J'ai conçu cette application de manière très modulaire : chaque composant était développé dans un projet Git autonome, testé de manière isolée.
+
+J'ai mis en place un processus de développement de pointe pour les modules JavaScript, utilisant des scripts Ant pour l'automatisation des tâches de vérification du code (JSLint), minification des scripts (YUI Compressor) et génération de la documentation HTML des API (Natural Docs).
+
+Les fonctionnalités dont je suis le plus fier sont la navigation locale avec conservation de l'historique et le support de l'internationalisation basé sur des modèles (templates).

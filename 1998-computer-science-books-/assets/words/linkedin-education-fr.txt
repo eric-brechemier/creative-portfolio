@@ -1,0 +1,21 @@
+School: 📚 Livres d'informatique (étude en autodidacte)
+Field of Study: Informatique
+Start Date: 1998
+End Date: 2018
+Description:
+▷ Le Langage Caml, de Pierre Weis & Xavier Leroy
+▷ Compilers, d'Alfred V. Aho et al
+▷ JavaScript: The Good Parts, de Douglas Crockford
+
+▶︎ XML in a Nutshell, de Elliotte Rusty Harold & W. Scott Means
+▶︎ Schémas XML, de Jean-Jacques Thomasson
+▶︎ XSLT fondamental, de Philippe Drix
+
+▷ UML Distilled, de Martin Fowler
+▷ Design Patterns, d'Erich Gamma et al
+▷ Patterns of Enterprise Application Architecture, de Martin Fowler
+
+▶︎ L'eXtreme Programming, de Jean-Louis Bénard et al
+▶︎ Object Design, de Rebecca Wirfs-Brock & Alan McKean
+▶︎ Refactoring, de Martin Fowler et al
+▶︎ The Mythical Man-Month, de Frederick P. Brooks, Jr.

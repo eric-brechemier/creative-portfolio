@@ -1,0 +1,17 @@
+Title: Software Engineer
+Employment type: Freelance
+Company name: AUTAJON GROUP
+Location: Montélimar, Auvergne-Rhône-Alpes, France
+Start date: November 2019
+End date: March 2020
+Description:
+End-customer: Autajon, in Montélimar (France)
+
+Helping warehouse management software to grow in new directions
+
+Problem Solved ▶︎ Two branches of code which had diverged several years ago had to be reconciled. On one branch, a migration to a new version of Delphi and a new database system, which was not completed. On the other branch, the production code had evolved independently, with the addition and removal of different features.
+
+Solutions ▶︎▶︎
+1. I introduced a new workflow based on git and GitHub for versioning of the source code,
+2. I used git diff and git add tools in interactive mode to recreate a gradual history of the project,
+3. I completed the initial migration with the help of command line transformations using grep and sed.

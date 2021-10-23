@@ -1,0 +1,5 @@
+School: Conservatoire National des Arts et Métiers
+Degree: Master
+Field of study: Video Game Programming and Design
+Start date: October 2003
+End date: December 2004

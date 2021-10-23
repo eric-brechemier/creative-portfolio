@@ -1,0 +1,11 @@
+School: 📚 Livres d'ingénierie pédagogique (étude en autodidacte)
+Field of study: Ingénierie pédagogique
+Start date: 2020
+End date: 2022
+Description:
+▷ Multimedia Learning, de Richard E. Mayer
+▷ Productive Thinking, de Max Wertheimer
+
+▶︎ Instructional Design, Principles and Applications, de Leslie J. Briggs et al
+▶︎ Principles of Instructional Design, de Robert M. Gagné & Leslie J. Briggs
+▶︎ The Conditions of Learning, de Robert M. Gagné
