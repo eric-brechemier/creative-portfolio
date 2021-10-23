@@ -8,12 +8,17 @@ Projects and learning portfolio in my three domains of expertise:
 
 ## Instructional Design
 
+* Instructional Design Master Class by Connie Malamed (2021)
+* Digital Learning Management by LearnAssembly (2020)
 * Instructional Design Books (Self-Learning) (2020–)
 
 ## Graphic Design
 
+* Le design graphique au collège du Cnap sur Fun-Mooc (2021)
 * edaa (2019–2022)
 * Cook 250 (2019–)
+* Sexing the Canvas: Art and Gender on Coursera (2017)
+* Graphic Design Specialization by CalArts on Coursera (2017)
 * La forme en création (2013–)
 * 7 Days Gallery (2011)
 * Graphic Design Books (Self-Learning) (2004–)
@@ -23,6 +28,7 @@ Projects and learning portfolio in my three domains of expertise:
 * Autajon (2019–2020)
 * Twilio Champions (2019–)
 * How I replaced Skype with Twilio (2019)
+* SQL for Data Science on Coursera (2018)
 * eGull (2015–2018)
 * MEDEA (2014)
 * Zero Passwords Server (2013–2019)
