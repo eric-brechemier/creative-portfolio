@@ -15,6 +15,7 @@ Projects and learning portfolio in my three domains of expertise:
 ## Computer Science
 
 * Twilio Champions (2019–)
+* MEDEA (2014)
 * Expway (2004–2007)
 * B4J (2004–2005)
 * CNAM-ENJMIN (2003–2004)
