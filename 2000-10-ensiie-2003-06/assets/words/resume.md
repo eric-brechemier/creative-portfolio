@@ -6,7 +6,7 @@ ENSIIE is a graduate school awarding an Engineer's Degree in Computer Science.
 
 * Software Engineering Master Degree (2003)
 
-### 2003 Majors 2003
+### 2003 Majors
 
 * Change Management
 * Artificial Intelligence
