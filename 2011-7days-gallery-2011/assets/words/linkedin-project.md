@@ -19,7 +19,7 @@ The gallery is a digital space for the promotion of artists and designers, with 
 
 ### Other Creator
 
-* [Alève Mine](https://www.linkedin.com/in/ericbrechemier/detail/project/49/contributors/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BCT%2Bq14DNTBKpJMH99kka6Q%3D%3D&licu=urn%3Ali%3Acontrol%3Ad_flagship3_profile_view_base-project_contributors)
+* [Alève Mine](https://www.linkedin.com/in/alevemine/)
 
 ### See Project
 
