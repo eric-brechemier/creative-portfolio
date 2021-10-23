@@ -14,6 +14,7 @@ Projects and learning portfolio in my three domains of expertise:
 
 ## Graphic Design
 
+* Fontstand (2021)
 * Le design graphique au collège du Cnap sur Fun-Mooc (2021)
 * edaa (2019–2022)
 * Cook 250 (2019–)
@@ -41,6 +42,7 @@ Projects and learning portfolio in my three domains of expertise:
 * OECD (2008)
 * Expway (2004–2007)
 * B4J (2004–2005)
+* Pastagames (2004)
 * CNAM-ENJMIN (2003–2004)
 * ENSIIE (2000–2003)
 * Computer Science Books (Self-Learning) (1998–)
