@@ -15,6 +15,7 @@ Projects and learning portfolio in my three domains of expertise:
 ## Computer Science
 
 * Twilio Champions (2019–)
+* How I replaced Skype with Twilio (2019)
 * MEDEA (2014)
 * Enlarge Your Password! (2011–2015)
 * MangaConseil (2008–2016)
