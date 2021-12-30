@@ -14,9 +14,21 @@ End date: December 2018
 Description:
 Aider les golfeurs occasionnels à jouer plus souvent
 
-Problèmes résolus ▶︎ Embauché comme premier employé d'eGull en juin 2015, j'ai traversé les différentes phases de son développement, avec plusieurs pivots :
-1. analyse de mouvements enregistrés par les capteurs d'une montre connectée pour détecter les coups de golf,
-2. suivi des positions GPS des golfeurs pour réduire les embouteillages sur les parcours,
-3. paiement à la carte d'une partie de golf, en fonction du nombre de trous joués.
+Problèmes résolus ▶︎ Embauché comme premier employé d'eGull en juin 2015,
+j'ai traversé les différentes phases de son développement, avec plusieurs
+pivots :
+1. analyse de mouvements enregistrés par
+   les capteurs d'une montre connectée
+   pour détecter les coups de golf,
+2. suivi des positions GPS des golfeurs
+   pour réduire les embouteillages
+   sur les parcours,
+3. paiement à la carte d'une partie de golf,
+   en fonction du nombre de trous joués.
 
-Solutions ▶︎▶︎ Je me suis attaqué à ces trois problèmes sous l'angle des données, leur enregistrement, leur traitement et l'extraction de motifs communs et de connaissances. J'ai choisi de placer la base de données au centre de notre architecture, en utilisant une fine couche intermédiare pour faire le pont entre les requêtes HTTP et les requêtes SQL et assurer la sécurité des échanges avec un système d'authentification par jeton.
+Solutions ▶︎▶︎ Je me suis attaqué à ces trois problèmes sous l'angle des données,
+leur enregistrement, leur traitement et l'extraction de motifs communs
+et de connaissances. J'ai choisi de placer la base de données au centre
+de notre architecture, en utilisant une fine couche intermédiare pour
+faire le pont entre les requêtes HTTP et les requêtes SQL et assurer la
+sécurité des échanges avec un système d'authentification par jeton.
