@@ -1,0 +1,10 @@
+Title: Software Engineer
+Employment type: Internship
+Company Name: Setec ITS (Intelligent Transport Systems)
+Location: Paris, France
+Start Date: June 2001
+End Date: August 2001
+Description:
+Developed a software application [VB, SQL] tracking Calls for Tenders.
+Needs analysis; [Access] database modelling; UI design; development
+and optimization of [SQL] queries for filtering on multiple criteria.
