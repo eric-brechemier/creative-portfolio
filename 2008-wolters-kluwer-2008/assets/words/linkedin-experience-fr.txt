@@ -22,3 +22,9 @@ l'ensemble de tous les autres portails, la migration a été interrompue. La
 connaissance acquise grâce à ce travail de documentation a ainsi permis
 d'éviter une migration coûteuse et inutile. Cette documentation a également
 facilité la maintenance et les évolutions des portails PHP existants.
+
+-----------------------------------------------------------------------
+
+Client final : Wolters Kluwer France, Rueil-Malmaison
+Analyse et documentation [UML] du portail métier dédié aux pharmaciens.
+Documentation des scénarios et cas d'utilisation, plans de tests.
