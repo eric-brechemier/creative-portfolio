@@ -5,8 +5,31 @@ Location: Paris
 Start date: August 2011
 End date: November 2012
 Description:
-Partager un calendrier, des photos et des messages en privé entre les membres d'une famille étendue
+Partager un calendrier, des photos et des messages en privé entre les membres
+d'une famille étendue
 
-Problèmes résolus ▶︎ Cette application Web a été conçue comme une sorte de Facebook privé, restreint aux membres d'une famille étendue. J'ai rejoint l'équipe pendant la première phase du projet. Le développement de l'interface Web avait été externalisé à l'étranger, il avait pris du retard et les fonctionnalités attendues n'étaient pas présentes. Le développement de l'application serveur avait tout juste commencé car le directeur technique en charge de cette partie n'avait pas encore quitté son travail à plein temps. Un contrat avait déjà été signé pour la livraison de la plate-forme en marque blanche avant la fin de l'année. Mais avec seulement quelques mois restants, la pression montait progressivement.
+Problèmes résolus ▶︎ Cette application Web a été conçue comme une sorte de
+Facebook privé, restreint aux membres d'une famille étendue. J'ai rejoint
+l'équipe pendant la première phase du projet. Le développement de l'interface
+Web avait été externalisé à l'étranger, il avait pris du retard et les
+fonctionnalités attendues n'étaient pas présentes. Le développement de
+l'application serveur avait tout juste commencé car le directeur technique en
+charge de cette partie n'avait pas encore quitté son travail à plein temps.
+Un contrat avait déjà été signé pour la livraison de la plate-forme en marque
+blanche avant la fin de l'année. Mais avec seulement quelques mois restants,
+la pression montait progressivement.
 
-Solutions ▶︎▶︎ J'ai fait le pont entre l'équipe de développement à l'étranger et l'équipe de direction à Paris, en m'assurant que des objectifs clairs mais réalisables soient fixés, avec des dates de rendu proches. J'ai collaboré avec la graphiste pour rendre la création plus systématique et cohérente, en conservant les variations qui avaient du sens, et en gommant les différences dues au hasard. J'ai créé des modules CSS réutilisables selon les principes de OOCSS, que j'ai intégrés à un guide de style en HTML pour en faire la démonstration à toute l'équipe. J'ai également introduit une architecture modulaire pour l'application JavaScript, ainsi qu'un processus d'internationalisation, pour personnaliser des modèles d'interface communs avec les textes et les styles localisés. J'ai automatisé le processus de construction de l'application pour produire des items optimisés prêts à être déployés. En fin d'année, la première version de l'application était en ligne, disponible en trois langues, et déclinée en deux styles visuels différents.
+Solutions ▶︎▶︎ J'ai fait le pont entre l'équipe de développement à l'étranger
+et l'équipe de direction à Paris, en m'assurant que des objectifs clairs mais
+réalisables soient fixés, avec des dates de rendu proches. J'ai collaboré avec
+la graphiste pour rendre la création plus systématique et cohérente, en
+conservant les variations qui avaient du sens, et en gommant les différences
+dues au hasard. J'ai créé des modules CSS réutilisables selon les principes
+de OOCSS, que j'ai intégrés à un guide de style en HTML pour en faire la
+démonstration à toute l'équipe. J'ai également introduit une architecture
+modulaire pour l'application JavaScript, ainsi qu'un processus
+d'internationalisation, pour personnaliser des modèles d'interface communs
+avec les textes et les styles localisés. J'ai automatisé le processus de
+construction de l'application pour produire des items optimisés prêts à être
+déployés. En fin d'année, la première version de l'application était en ligne,
+disponible en trois langues, et déclinée en deux styles visuels différents.
