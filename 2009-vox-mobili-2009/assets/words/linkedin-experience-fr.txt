@@ -20,3 +20,13 @@ Parmi ces composants :
   à la passerelle de l'opérateur, pour l'import, la synchronization et l'appariement des contacts de réseaux sociaux
 - un module back-end pour la migration des utilisateurs
   dans le cadre du déploiement de la plate-forme
+
+----------------------------------------------------------------------------
+
+Développement [Java, HTTP] d'un module d'adaptation pour l'envoi et la
+réception de SMS à travers la plate-forme de l'opérateur Bouygues Telecom.
+Développement [Java, JavaScript, SQL, XML] de modules serveurs et de
+services Web connectés à la passerelle de l'opérateur T-Mobile pour l'import,
+la synchronisation, et l'appariement de contacts de réseaux sociaux (Facebook).
+Conception et développement [UML, Java, SQL] d'un module de migration
+des utilisateurs pour la mise en production.
