@@ -1,0 +1,22 @@
+Title: Développeur serveur
+Employment type: Freelance
+Company name: Voxmobili
+Location: Paris, France
+Start Date: Février 2009
+End Date: Août 2009
+Description:
+Client final : Voxmobili, à Paris (France)
+
+J'ai développé des modules en Java et SQL pour le back-end de deux
+plate-formes Web pour des opérateurs télécoms en France et en Allemagne.
+L'environnement de développement était basé sur Eclipse et Subversion.
+J'ai également fait la conception de ces composants en UML, ainsi que celle
+des tables SQL associées pour la base de données Oracle.
+
+Parmi ces composants :
+- un module d'adaptation pour l'envoi et la réception de SMS
+  à travers la passerelle de l'opérateur
+- des modules serveurs connectés par des services Web
+  à la passerelle de l'opérateur, pour l'import, la synchronization et l'appariement des contacts de réseaux sociaux
+- un module back-end pour la migration des utilisateurs
+  dans le cadre du déploiement de la plate-forme
