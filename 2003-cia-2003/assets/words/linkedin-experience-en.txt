@@ -1,0 +1,13 @@
+Title: Software Designer
+Employment type: Freelance
+Company Name: Consultants Informatiques Associés
+Location: Paris, France
+Start Date: July 2003
+End Date: October 2003
+Description:
+Designed XML Schema [XML Schema] and Web Front-End [XSLT, JSP, XForms]
+to edit electronic catalogs of corrective lenses.
+
+Developed a working prototype, which I demonstrated
+at SILMO professional trade show to senior executives
+of Ophthalmic Lens Industry [http://www.silmo.fr/].

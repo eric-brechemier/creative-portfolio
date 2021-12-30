@@ -1,0 +1,9 @@
+Title: Software Engineer
+Employment type: Internship
+Company Name: Consultants Informatiques Associés
+Location: Paris, France
+Start Date: June 2002
+End Date: September 2002
+Description:
+Developed software [Delphi, SQL] for the Ophthalmic Lens Industry.
+Designed a software application [UML] for the management of an optical outlet.
