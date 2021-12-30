@@ -1,0 +1,25 @@
+Title: Ingénieur de Recherche et de Développement
+Employment type: Contract
+Company Name: Ecole National Supérieure des Arts Décoratifs (EnsAD)
+Location: Paris, France
+Start Date: March 2014
+End Date: December 2014
+Description:
+Exploration des auteurs des rapports du GIEC sur le changement climatique
+
+Problème de recherche ▶︎ Le projet MEDEA était un partenariat entre les
+laboratoires de deux écoles :
+ • l'École nationale supérieure des Arts Décoratifs (EnsAD)
+   était responsable de la création visuelle,
+ • Sciences Po dirigeait les recherches sur les auteurs
+   qui ont contribué aux rapports du GIEC sur le changement climatique.
+J'ai rejoint le projet dans sa dernière année, en 2014.
+
+Solutions ▶︎▶︎ Afin d'améliorer la traçabilité des données, j'ai conçu une
+séquence de transformations de données et de validation humaine qui préserve
+l'information sur l'origine des données et les choix effectués à chaque étape.
+Afin de comparer la pertinence de différentes visualisations de données pour
+répondre à des questions spécifiques, j'ai exporté les données en CSV par des
+requêtes SQL et j'ai comparé de multiples visualisations de données dans un
+tableur. J'ai également développé une interface Web en SVG et JavaScript pour
+l'exploration interactive et la sélection des données à l'aide de filtres.
