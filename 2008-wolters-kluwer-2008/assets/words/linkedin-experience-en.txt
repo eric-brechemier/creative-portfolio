@@ -5,6 +5,20 @@ Location: Rueil-Malmaison, Île-de-France, France
 Start date: July 2008
 End date: October 2008
 Description:
-End-customer: Wolters Kluwer France, in Rueil-Malmaison
+Problem Solved ▶︎ After the acquisition of Lamy France,
+Wolters Kluwer wished to migrate their suite of Web portals
+for professionals from PHP to Java, to conform to the technology
+stack selected by the global corporation. To prepare this migration,
+Wolters Kluwer required to analyze and document the existing systems
+using UML.
 
-Somewhere between a Private Investigator and an Architect, I analyzed the PHP code of Web application modules currently deployed on WK-Pharma portal in order to produce Use Case documents and UML diagrams.
+Solutions ▶︎▶︎ I analyzed the PHP code of Web application modules currently
+deployed on WK-Pharma portal in order to produce Use Case documents and
+UML diagrams. I also created a poster with a bird-level overview of the
+whole system architecture. These diagrams helped the different teams of
+Wolters Kluwer to gain a better understanding of everything that was there.
+Having observed a lower performance for the first portal migrated from PHP
+to Java, and now realizing the scale of the full scope of work, the migration
+was halted. The knowledge gained from the diagrams I produced helped to avoid
+a costly and unnecessary migration. The newly created documentation also helped
+to improve the maintenance and evolutions of the existing PHP portals.

@@ -5,6 +5,20 @@ Location: Rueil-Malmaison
 Start date: July 2008
 End date: October 2008
 Description:
-Client final : Wolters Kluwer France, à Rueil-Malmaison
+Problème résolu ▶︎ Après l'acquisition de Lamy France, Wolters Kluwer
+souhaitait migrer toute sa suite de portails métiers de PHP vers Java,
+la technologie utilisée au niveau du groupe. Afin de préparer cette
+migration, Wolters Kluwer a mandaté l'analyse et la documentation
+de tous les systèmes existants à l'aide d'UML.
 
-A mi-chemin entre un détective privé et un architecte, j'ai analysé le code des modules PHP déployés sur le portail Web WK-Pharma, afin de produire des documentations techniques et des diagrammes UML.
+Solutions ▶︎▶︎ J'ai analysé le code des modules PHP déployés sur le portail
+Web WK-Pharma, afin de produire des documentations techniques et des
+diagrammes UML. J'ai également créé une grande affiche avec une vue
+d'ensemble de toute l'architecture. Ces diagrammes ont permis aux différentes
+équipes de Wolters Kluwer de mieux comprendre tout ce qui se trouvait là.
+Après avoir constaté une performance réduite pour le premier portail porté
+de PHP vers Java, et en réalisant l'ampleur du travail à réaliser pour porter
+l'ensemble de tous les autres portails, la migration a été interrompue. La
+connaissance acquise grâce à ce travail de documentation a ainsi permis
+d'éviter une migration coûteuse et inutile. Cette documentation a également
+facilité la maintenance et les évolutions des portails PHP existants.
