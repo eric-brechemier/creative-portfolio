@@ -5,9 +5,9 @@ Location: Paris, Île-de-France, France
 Start date: March 2005
 End date: November 2007
 Description:
-Problems Solved ▶︎ Our metadata server was distributed at cost for lab environments,
-to encourage our customers to experiment with the technology and
-see for themselves how well we fared compared to our competitors.
+Problems Solved ▶︎ Our metadata server was distributed at cost for lab
+environments, to encourage our customers to experiment with the technology
+and see for themselves how well we fared compared to our competitors.
 However, in a multicast environment, millions of devices could
 be listening to the same server. Without that difference of scale,
 how could be justify a much larger price tag for the same software
@@ -20,9 +20,9 @@ bulk and copy it into make-do databases, with slow performance.
 How could we make working with our library as convenient as
 creating their own data structures?
 
-Solutions ▶︎▶︎ Spread the components over 3 servers: input, database and output broadcast.
-Double the number of servers for redundancy: 3 primary, 3 secondary.
-The price of the extra hardware only increased our costs slightly,
+Solutions ▶︎▶︎ Spread the components over 3 servers: input, database and
+output broadcast. Double the number of servers for redundancy: 3 primary,
+3 secondary. The price of the extra hardware only increased our costs slightly,
 but the complexity of the architecture and the space taken in racks
 allowed us to justify the cost of our license for production environments.
 
@@ -31,7 +31,9 @@ Taking inspiration from the JSON interchange format, in its infancy for
 server to client communication, we provided JSON arrays and objects,
 already parsed, for client to client communication between our EPG library
 and the UI layer on top.
----
+
+---------------------------------------------------------------------
+
 Title: Research & Development Engineer
 Employment type: Permanent
 Company name: Expway
@@ -39,14 +41,61 @@ Location: Paris, Île-de-France, France
 Start date: July 2004
 End date: November 2007
 Description:
-Problem Solved ▶︎ The descriptions of TV programs (service guide guide) are consumed in different formats by the applications running on TV sets and handheld devices, depending on the broadcasting technology. Content providers export data in a format which mimics the structure of their own databases, split into a number of records and files without taking into account the needs of the output devices.
+Problem Solved ▶︎ The descriptions of TV programs (Electronic Service Guide)
+are consumed in different formats by the applications running on TV sets and
+handheld devices, depending on the broadcasting technology. Content providers
+export data in a format which mimics the structure of their own databases,
+split into a number of records and files without taking into account the needs
+of the output devices.
 
-Solution ▶︎▶︎ I designed a chain of transformations with a single interchange format based on the TV-Anytime standard. Each step was implemented as a combination of XSLT scripts and Ant tasks for the orchestration of the workflow:
+Solution ▶︎▶︎ I designed a chain of transformations with a single interchange
+format based on the TV-Anytime standard. Each step was implemented as a
+combination of XSLT scripts and Ant tasks for the orchestration of the
+workflow:
 
-1. convert from the input format (CSV or binary) to XML records with the same structure
+1. convert from the input format (CSV or binary) to XML records
+   with the same structure as the input
 2. combine separate files and reorganize records
-3. convert the input structure into a common interchange format, with a standard XML Schema defined by the international TV-Anytime Forum.
-4. convert XML data in TV-Anytime format to an XML format with the same structure as the output
-5. convert the output to the final format, which may be compressed XML or binary
+3. convert the input structure into a common interchange format,
+   with a standard XML Schema defined by the international TV-Anytime Forum.
+4. convert XML data in TV-Anytime format to an XML format
+   with the same structure as the output
+5. convert the output to the final format,
+   which may be compressed XML or binary
 
-A key principle is to convert only one thing at a time within each step,  either the format or the structure of the files. Having a single interchange  format in the middle allowed us to reuse input components and output components  on different projects, based on the providers and consumers.
+A key principle is to convert only one thing at a time within each step,
+either the format or the structure of the files. Having a single interchange
+format in the middle allowed us to reuse input components and output components
+on different projects, based on the providers and consumers.
+
+---------------------------------------------------------------------
+
+Contributing to Expway's expansion from 15 to 45 employees,
+managed 15+ Development/Deployment Projects for Clients
+in France, Italie, USA, China, Philippines, Japan.
+
+Project Management, coordinating technical teams of 1 to 5 developers,
+planning of developments involving negotiation with team leaders,
+time tracking, and delivery of software releases.
+
+Direct collaboration with NTT (Japan) on technical specifications of IPTV
+products and new services for mobile phones [UML, XML, C, Java, JavaScript].
+Designed technical architectures and APIs for the specific needs of NTT,
+demonstrated in joint steering committees.
+
+Developed Client-Server modules [Java] and data transformations [XSLT, Ant],
+defined XML schemas for TV guide in XML format distributed to mobile phones.
+
+Enjoyed building and giving presentations
+for Sales Support and Technical Training
+
+Expert Member of JSR 272, standard Java API for Mobile TV on J2ME phones,
+weekly telcos with Nokia, Motorola, Telecom Italia, Vodafone [UML, Java].
+
+June 2006:
+World's first commercial mobile TV service
+using DVB-H technology launched in Italy
+
+September 2006:
+NTT and EXPWAY jointly developed Metadata System deployed
+by Japanese IPTV Service Operator Plala Networks
