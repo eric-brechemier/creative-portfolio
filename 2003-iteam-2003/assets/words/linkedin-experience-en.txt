@@ -1,0 +1,11 @@
+Title: Software Engineer
+Employment type: Internship
+Company name: ITeam
+Location: Paris, France
+Start Date: February 2003
+End Date: June 2003
+Description:
+Studied state of the art research in Automatic Generation of GUI.
+
+Designed an application framework generating forms to edit properties
+of business objects described in XML files [UML, XMI, XSLT, XForms, C#].
