@@ -21,3 +21,11 @@ et génération de la documentation HTML des API (Natural Docs).
 Les fonctionnalités dont je suis le plus fier sont la navigation locale avec
 conservation de l'historique et le support de l'internationalisation basé sur
 des modèles (templates).
+
+--------------------------------------------------------------------------
+
+Développement [HTML, CSS, JavaScript] de l'interface d'une application Web
+de type webmail pour l'envoi de courriers recommandés par Internet.
+Développement d'un framework JavaScript publié en open source
+[https://github.com/eric-brechemier/lb_js_scalableApp].
+Ajout du support de l'internationalisation (i18n) et traductions en anglais.
