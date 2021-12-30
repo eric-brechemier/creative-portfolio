@@ -7,9 +7,12 @@ End date: August 2009
 Description:
 End-customer: Voxmobili, in Paris (France)
 
-I worked on the backend of two web platforms to be delivered to telco operators in 2009. The development was done in Java and SQL, using Eclipse. I designed independent components with UML, as well as SQL tables for an Oracle database.
+I worked on the backend of two web platforms to be delivered to telco operators
+in 2009. The development was done in Java and SQL, using Eclipse. I designed
+independent components with UML, as well as SQL tables for an Oracle database.
 
 Specific developments included:
 - the adapter module to send/receive SMS from telco's Gateway server
-- server modules connected through Web services to telco Gateway server for import, synchronization and matching of social network contacts
+- server modules connected through Web services to telco Gateway server
+  for import, synchronization and matching of social network contacts
 - a back-end module for the migration of users part of the platform deployment
