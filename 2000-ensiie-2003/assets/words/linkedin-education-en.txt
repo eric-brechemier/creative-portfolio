@@ -1,5 +1,11 @@
-School: ENSIIE
+School: Ecole Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise (ENSIIE)
 Degree: Master of Engineering - MEng
 Field of study: Computer Science
 Start date: October 2000
 End date: June 2003
+Location: Evry, France
+Description:
+Programming: mainly in C, Java and SQL
+Software Architecture: UML
+2003 Majors: Change Management, Artificial Intelligence, Financial Markets
+2002 Majors: Software Architecture & Design, Database Optimization

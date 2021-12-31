@@ -1,5 +1,11 @@
-School: ENSIIE
+School: Ecole Nationale Supérieure d'Informatique pour l'Industrie et l'Entreprise (ENSIIE)
 Degree: Diplôme d'ingénieur
 Field of study: Informatique
 Start date: October 2000
 End date: June 2003
+Location: Evry, France
+Description:
+Programmation : principalement en C, Java et SQL
+Conception Logicielle : UML
+Dominantes 2003: Gestion du Changement, Apprentissage Artificiel, Finance.
+Dominantes 2002: Architecture Logicielle, Optimisation de Bases de Données.
