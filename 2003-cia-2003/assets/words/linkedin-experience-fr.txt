@@ -1,0 +1,12 @@
+Title: Concepteur de logiciels
+Employment type: Freelance
+Company Name: Consultants Informatiques Associés
+Location: Paris, France
+Start Date: July 2003
+End Date: October 2003
+Description:
+Conception de Schémas de données [XML Schema]
+et d'une Interface Web [XSLT, JSP, XForms] pour
+l'édition de catalogues électroniques de verres ophtalmiques.
+Développement d'un prototype que j'ai démontré au salon professionnel
+SILMO à des dirigeants des groupes verriers [http://www.silmo.fr/].
