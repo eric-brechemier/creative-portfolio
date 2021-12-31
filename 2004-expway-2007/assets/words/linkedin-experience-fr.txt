@@ -36,7 +36,9 @@ sous forme d'objets natifs, déjà assemblés et prêts à consommer.
 Des tableaux et des objets au format JSON, échangés localement
 entre notre librairie et l'interface graphique, sous l'inspiration de ce
 format d'échange entre serveurs et navigateurs, à ses tous débuts.
----
+
+-------------------------------------------------------------------------
+
 Title: Ingénieur de recherche & développement
 Employment type: Permanent
 Company name: Expway
@@ -44,9 +46,18 @@ Location: Paris
 Start date: July 2004
 End date: November 2007
 Description:
-Problème résolu ▶︎ Les descriptions des programmes TV (guide de service électronique) sont consommées dans différents formats par les applications qui tournent sur les télévisions et les terminaux mobiles, en fonction de la technologie de diffusion. Les fournisseurs de contenus exportent les données dans un format qui reproduit le schéma de leurs propres bases de données. Elles sont divisées en différents fichiers avec différents types d'enregistrements sans tenir compte des besoins des terminaux qui les affichent.
+Problème résolu ▶︎ Les descriptions des programmes TV (guide de service
+électronique) sont consommées dans différents formats par les applications
+qui tournent sur les télévisions et les terminaux mobiles, en fonction de la
+technologie de diffusion. Les fournisseurs de contenus exportent les données
+dans un format qui reproduit le schéma de leurs propres bases de données. Elles
+sont divisées en différents fichiers avec différents types d'enregistrements
+sans tenir compte des besoins des terminaux qui les affichent.
 
-Solution ▶︎▶︎ J'ai conçu une chaîne de transformations qui passent par un point pivot  avec un unique format d'échange, basé sur le standard TV-Anytime. J'ai implémenté chaque étape de ces transformations avec une combinaison de scripts XSLT et de tâches Ant pour l'orchestration du processus :
+Solution ▶︎▶︎ J'ai conçu une chaîne de transformations qui passent par un point
+pivot avec un unique format d'échange, basé sur le standard TV-Anytime. J'ai
+implémenté chaque étape de ces transformations avec une combinaison de
+scripts XSLT et de tâches Ant pour l'orchestration du processus :
 
 1. conversion du format d'entrée (CSV ou binaire) vers une liste d'éléments XML
    avec la même structure que les enregistrements dans le format d'entrée
@@ -58,4 +69,41 @@ Solution ▶︎▶︎ J'ai conçu une chaîne de transformations qui passent par
 5. conversion du format XML de sortie vers le format final, par exemple
    du XML compressé ou un format binaire
 
-Un principe clef est de ne convertir qu'une seule chose à la fois à chaque étape de ce processus : soit le format, soit la structure des fichiers. L'utilisation d'un format pivot nous a permis de réutiliser les étapes de transformation d'entrée et de sortie sur différents projets, en fonction des fournisseurs de contenus et de la technologie des terminaux.
+Un principe clef est de ne convertir qu'une seule chose à la fois à chaque
+étape de ce processus : soit le format, soit la structure des fichiers.
+L'utilisation d'un format pivot nous a permis de réutiliser les étapes de
+transformation d'entrée et de sortie sur différents projets, en fonction
+des fournisseurs de contenus et de la technologie des terminaux.
+
+---------------------------------------------------------------------------
+
+Contribuant à la croissance rapide d'Expway de 15 à 45 employés,
+j'ai géré plus de 15 projets de développement/déploiement pour des clients
+en France, Italie, USA, Chine, Philippines, Japon.
+
+Collaboration directe avec l'opérateur japonais NTT sur les spécifications
+techniques de produits IPTV et de services pour les téléphones mobiles.
+Conception des architectures techniques et des API spécifiques pour NTT.
+Coordination des équipes techniques en interne, de 1 à 5 développeurs
+selon les projets ; garant de la qualité et des délais vis-à-vis des clients.
+
+Développement d'outils de conversion [XSLT, Java] de données [XML, SVG]
+vers des formats binaires compacts, et de génération de code Java
+pour décoder ces données au sein d'applications Java mobiles.
+Architecture logicielle et gestion de projets du développement
+au déploiement de services de diffusion des guides de service (ESG)
+pour la télévision mobile et l'IPTV pour des clients internationaux.
+
+Membre du groupe d'experts JSR 272, API standard pour la TV mobile en J2ME;
+telcos hebdomadaires en anglais avec Nokia, Motorola, Telecom Italia, Vodafone.
+
+J'ai apprécié donner des présentations avant-vente
+et des formations techniques en anglais.
+
+Septembre 2006 :
+NTT et EXPWAY développent conjointement un système de métadonnées,
+déployé au Japon par l'opérateur d'IPTV Plala Networks.
+
+Juin 2006 :
+Le premier déploiement au monde de la TV Mobile  DVB-H est réalisé
+en Italie avec la technologie d'Expway
