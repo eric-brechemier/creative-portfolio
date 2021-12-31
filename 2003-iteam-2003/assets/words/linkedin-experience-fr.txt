@@ -1,0 +1,11 @@
+Title: Software Engineer
+Employment type: Internship
+Company name: ITeam
+Location: Paris, France
+Start Date: February 2003
+End Date: June 2003
+Description:
+Etude de l'Etat de l'Art de la Génération Automatique d'IHM.
+Conception d'un framework de génération de formulaires
+pour l'édition des propriétés d'objets métiers décrits
+au sein de fichiers XML [UML, XMI, XSLT, XForms, C#].
