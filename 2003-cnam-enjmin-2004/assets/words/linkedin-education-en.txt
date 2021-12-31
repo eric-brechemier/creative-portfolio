@@ -3,3 +3,10 @@ Degree: Master
 Field of study: Video Game Programming and Design
 Start date: October 2003
 End date: December 2004
+Location: Angoulême & Paris, France
+Description:
+Core Curriculum: Game Design, Graphic Design, Music/Sound FX, Usability
+Major: Programming
+Seminars at IRCAM [https://en.wikipedia.org/wiki/IRCAM] on Generative Music.
+Working in a multidisciplinary team as a programmer, I developed [C++] code
+to manage sounds and their spatialisation in a video game prototype.

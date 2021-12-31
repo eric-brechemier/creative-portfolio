@@ -3,3 +3,10 @@ Degree: Master
 Field of study: Jeux Vidéo et Média Interactifs
 Start date: October 2003
 End date: December 2004
+Location: Angoulême & Paris, France
+Description:
+Tronc commun : Game Design, Graphisme, Musique/Effets Sonores, Ergonomie
+Spécialité : Programmation
+Séminaires de l'IRCAM sur la musique générative.
+Développement [C++] du code de gestion des sons et de leur spatialisation
+dans un prototype de jeu au sein d'une équipe projet pluridisciplinaire.
