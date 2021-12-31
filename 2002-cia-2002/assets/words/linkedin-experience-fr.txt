@@ -1,0 +1,9 @@
+Title: Ingénieur informatique
+Employment type: Internship
+Company Name: Consultants Informatiques Associés
+Location: Paris, France
+Start Date: June 2002
+End Date: September 2002
+Description:
+Développement de logiciels [Delphi, SQL] pour l'industrie Optique.
+Conception [UML] d'une application de gestion de magasins pour les opticiens.
