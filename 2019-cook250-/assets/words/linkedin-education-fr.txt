@@ -4,10 +4,17 @@ Field of study: graphisme
 Start date: September 2019
 End date: March 2020
 Description:
-Sujet : créer un poster pour communiquer sur une cause, un pays ou une région qui vous tient à cœur.
+Problème : créer un poster pour communiquer sur une cause,
+un pays ou une région qui vous tient à cœur.
 
-J'ai travaillé sur un poster qui confronte une perspective européenne et une perspective Māori sur les commémorations du 250e anniversaire de l'arrivée de James Cook en Nouvelle Zélande. Ce poster vise à développer une prise de conscience à plusieurs niveaux :
+J'ai travaillé sur un poster qui confronte une perspective européenne et une
+perspective Māori sur les commémorations du 250e anniversaire de l'arrivée de
+James Cook en Nouvelle Zélande. Ce poster vise à développer une prise de
+conscience à plusieurs niveaux :
 
-1. les Māori se sont installés en Nouvelle Zélande 500 ans avant sa "découverte" par Cook,
-2. l'exploration scientifique de James Cook s'est accompagnée de violence gratuite,
-3. des meurtriers sont célébrés quand leurs victimes ont été largement laissées dans l'oubli.
+1. les Māori se sont installés en Nouvelle Zélande
+   500 ans avant sa "découverte" par Cook,
+2. l'exploration scientifique de James Cook
+   s'est accompagnée de violence gratuite,
+3. des meurtriers sont célébrés quand leurs victimes
+   ont été largement laissées dans l'oubli.
