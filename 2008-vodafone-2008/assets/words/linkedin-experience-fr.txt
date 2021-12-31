@@ -1,14 +1,30 @@
 Title: Développeur Web 2.0
 Employment type: freelance
-Company name: Vodafone
+Company name: Vodafone Global
 Location: Düsseldorf, Allemagne
 Start date: February 2008
 End date: April 2008
 Description:
-Client final : Vodafone Global, Düsseldorf (Allemagne)
-J'ai été recruté par ITHR Consulting, en charge du développement et du support pour le portail Web de Vodafone. J'ai fait partie de l'équipe Prototype, et j'étais en fait la moitié de cette équipe pendant trois mois, car j'ai pu profiter de l'expérience d'une collaboration en duo avec un authentique Entrepreneur Américain. Il s'agissait d'un projet ultra-secret dont je ne peux rien révéler, sinon qu'un téléphone portable était impliqué et que j'ai beaucoup apprécié développer de nouveaux concepts et partager des idées étranges. Les pré-requis pour cette mission étaient de penser en-dehors du cadre et d'explorer un large choix de technologies :
+J'ai été recruté par ITHR Consulting, en charge du développement et du support
+pour le portail Web de Vodafone. J'ai fait partie de l'équipe Prototype, et
+j'étais en fait la moitié de cette équipe pendant trois mois, car j'ai pu
+profiter de l'expérience d'une collaboration en duo avec un authentique
+Entrepreneur Américain. Il s'agissait d'un projet ultra-secret dont je ne
+peux rien révéler, sinon qu'un téléphone portable était impliqué et que j'ai
+beaucoup apprécié développer de nouveaux concepts et partager des idées
+étranges. Les pré-requis pour cette mission étaient de penser en-dehors du
+cadre et d'explorer un large choix de technologies :
 - RSS,
 - Yahoo! Pipes,
 - script.aculo.us,
 - Facebook,
 - Google Maps.
+
+-------------------------------------------------------------------
+Client final : Vodafone Global, Düsseldorf (Allemagne)
+Langue de travail : anglais
+
+Dans l'équipe Prototype, développement d'une application Web 2.0 [JavaScript]
+pour démonstration d'un nouveau service convergent sur PC et Mobile.
+Exploration d'un large choix de technologies :
+script.aculo.us, Google Maps, Facebook, Yahoo! Pipes, RSS.
