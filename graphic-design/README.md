@@ -1,0 +1,15 @@
+## Graphic Design
+
+* Fontstand (2021)
+* Le design graphique au collège du Cnap sur Fun-Mooc (2021)
+* edaa (2019–2022)
+* Cook 250 (2019–)
+* Sexing the Canvas: Art and Gender on Coursera (2017)
+* Introduction to Imagemaking by CalArts on Coursera (2017)
+* Introduction to Typography by CalArts on Coursera (2017)
+* Seeing Through Photographs by MoMA on Coursera (2017)
+* Ideas from the History of Graphic Design by CalArts on Coursera (2017)
+* Fundamentals of Graphic Design by CalArts on Coursera (2017)
+* La forme en création (2013–)
+* 7 Days Gallery (2011)
+* Graphic Design Books (Self-Learning) (2004–)
