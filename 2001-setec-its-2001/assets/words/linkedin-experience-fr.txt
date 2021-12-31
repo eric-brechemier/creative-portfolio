@@ -1,0 +1,11 @@
+Title: Ingénieur informatique
+Employment type: Internship
+Company Name: Setec ITS (Intelligent Transport Systems)
+Location: Paris, France
+Start Date: June 2001
+End Date: August 2001
+Description:
+Développement d'une application [VB, SQL]
+de suivi des consultations et appels d'offre.
+Recueil des besoins; schéma de base de données [Access]; conception des IHM;
+développement et optimisation des requêtes [SQL] de recherche multi-critères.
