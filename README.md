@@ -1,8 +1,5 @@
 # Creative Portfolio of Eric Bréchemier,<br>Instructional Designer (Art & Creation)
 
-*I help adults, children and students to experience beauty through art
-and creation<br>to develop their ability to see, to picture and to create.*
-
 ## I help students to learn artistic and creative skills.
 
 Designer and technologist, I help children and adult learners
