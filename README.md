@@ -1,10 +1,14 @@
 # Creative Portfolio of Eric Bréchemier,<br>Instructional Designer (Art & Creation)
 
-## I help students to learn artistic and creative skills.
+## Making Learning Visible
 
-Designer and technologist, I help children and adult learners
-to experience beauty through art and creation to develop their
-ability to see, to picture and to create.
+I help children and adult learners to experience beauty
+through art and creation to develop their ability to see,
+to picture and to create.
+
+I help teachers to design educational activities
+through which their students demonstrate their learning
+and make visible progress towards the target objectives.
 
 After having worked for 15 years as a Software Engineer while
 studying Graphic Design as a self-learner, I initiated a transition
