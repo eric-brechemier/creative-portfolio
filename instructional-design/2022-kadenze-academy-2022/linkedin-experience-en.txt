@@ -1,0 +1,8 @@
+School: Kadenze Academy
+Field of study: Learning Design for the Arts & Creative Industries
+Start date: January 2022
+End date: February 2022
+Description:
+A series of workshops from the designers of the Kadenze online learning platform,
+teaching how to design online and hybrid courses for the arts and creative industries,
+how to share the joy of learning and make learners the heroes of their learning journeys.

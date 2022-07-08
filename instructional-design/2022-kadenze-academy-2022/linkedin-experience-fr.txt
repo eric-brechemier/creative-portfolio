@@ -1,0 +1,8 @@
+School: Kadenze Academy
+Field of study: Conception pédagogique pour l'art et les industries créatives
+Start date: January 2022
+End date: February 2022
+Description:
+Une série d'ateliers par l'équipe pédagogique de la plateforme d'enseignement Kadenze,
+pour apprendre à concevoir des parcours de formation à l'art et la création,
+pour partager la joie d'apprendre et faire des étudiants les héros de leurs apprentissages.
