@@ -1,0 +1,9 @@
+School: Mastering Instructional Design : ateliers dirigés par Connie Malamed
+Degree: Certificat professionnel
+Field of study: Conception pédagogique
+Start date: January 2021
+End date: March 2021
+Description:
+Processus de conception pédagogique appliqué étape par étape,
+de la planification jusqu'aux stratégies et aux scénarios de formation,
+pour la prévention des vols de données dans une grande organisation.
