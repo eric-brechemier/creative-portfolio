@@ -1,0 +1,8 @@
+School: Learn Assembly
+Degree: Professional Certificate
+Field of study: Digital Learning Management
+Start date: May 2020
+End date: July 2020
+Description:
+Overview of the complete instructional process from design to implementation
+including marketing, community management and assessment.

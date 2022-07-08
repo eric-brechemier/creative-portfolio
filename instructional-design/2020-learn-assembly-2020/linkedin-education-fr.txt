@@ -1,0 +1,9 @@
+School: Learn Assembly
+Degree: Certificat professionnel
+Field of study: Enseignement à distance
+Start date: May 2020
+End date: July 2020
+Description:
+Panorama complet du parcours d'ingénierie pédagogique depuis la conception
+jusqu'à l'implémentation en passant par la promotion et l'animation des parcours
+et l'évaluation de l'impact de la formation.
