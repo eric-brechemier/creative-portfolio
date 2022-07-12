@@ -29,6 +29,6 @@ pivots :
 Solutions ▶︎▶︎ Je me suis attaqué à ces trois problèmes sous l'angle des données,
 leur enregistrement, leur traitement et l'extraction de motifs communs
 et de connaissances. J'ai choisi de placer la base de données au centre
-de notre architecture, en utilisant une fine couche intermédiare pour
+de notre architecture, en utilisant une fine couche intermédiaire pour
 faire le pont entre les requêtes HTTP et les requêtes SQL et assurer la
 sécurité des échanges avec un système d'authentification par jeton.
