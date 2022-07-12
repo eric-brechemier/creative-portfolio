@@ -1,6 +1,6 @@
 School: Learn Assembly
 Degree: Certificat professionnel
-Field of study: Enseignement à distance
+Field of study: Gestion de projet pour l'enseignement à distance
 Start date: May 2020
 End date: July 2020
 Description:
