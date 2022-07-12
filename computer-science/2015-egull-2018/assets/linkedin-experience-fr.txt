@@ -15,7 +15,7 @@ Description:
 Aider les golfeurs occasionnels à jouer plus souvent
 
 Problèmes résolus ▶︎ Embauché comme premier employé d'eGull en juin 2015,
-j'ai traversé les différentes phases de son développement, avec plusieurs
+j'ai contribué aux différentes phases de son développement, avec plusieurs
 pivots :
 1. analyse de mouvements enregistrés par
    les capteurs d'une montre connectée
